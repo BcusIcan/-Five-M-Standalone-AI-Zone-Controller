@@ -22,9 +22,10 @@ This resource is in the early stages, all code and formatting is subject to chan
 4. start *'zonecntrl'* in your **Server.cfg**.
 
 ## Commands:
-1. `slow` = (Activates A Slow Zone Within Player Radius)
-2. `stop` = (Activates A Stop Zone Within Player Radius)
-3. `clear` = (Clears Active Zone)
+1. `zone` = (Initial Command Input)
+2. `slow` = (Activates A Slow Zone Within Player Radius)
+3. `stop` = (Activates A Stop Zone Within Player Radius)
+4. `clear` = (Clears Active Zone)
 
 
 Please Report Any And All Bugs, Thank you Enjoy.
